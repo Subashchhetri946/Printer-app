@@ -41,12 +41,11 @@ public class App {
 
 
        //12. print "5 * 2 = 10" to the console, if number1 was 5 and number2 was 2.
-        number1 = 5;
-        number2 = 2;
-
-        System.out.println("5 * 2 = 10");
+       System.out.println("5 * 2 = 10");
 
 
+        number1 = 20;
+        number2 = 4;
         // Addition
         int addition = number1 + number2;
         System.out.println("The sum of number1 and number2 is " + addition);
