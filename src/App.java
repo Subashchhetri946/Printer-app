@@ -17,7 +17,7 @@ public class App {
          // 6. declare two numeric variables as number1 and number2. Assign some values to variables
        int number1;
        int number2;
-       number1 = 5;
+       number1 = 10;
        number2 = 3;
        
        // 7. print the value number1 to the console
