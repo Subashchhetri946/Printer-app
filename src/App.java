@@ -18,16 +18,15 @@ public class App {
        int number1;
        int number2;
        number1 = 10;
-       number2 = 3;
+       number2 = 2;
        
        // 7. print the value number1 to the console
        System.out.println(number1);
 
-       // 8. print "the value of number1 is 5"
+       // 8. print "the value of number1 is 10"
        System.out.println("The value of number1 is " + number1);
 
-       // 9. print " the value of number2 is 3"
-       number2 = 3;
+       // 9. print " the value of number2 is 2"
        System.out.println("The value of number2 is " + number2);
 
 
